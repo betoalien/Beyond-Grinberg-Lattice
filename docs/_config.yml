@@ -6,13 +6,13 @@ color_scheme: light
 search_enabled: true
 heading_anchors: true
 permalink: pretty
-baseurl: "/beyond-grinberg-lattice"
-url: "https://betoalien.github.io"
+baseurl: ""
+url: "https://grinberg.albertocardenas.com"
 aux_links:
   GitHub Repository:
     - "https://github.com/betoalien/Beyond-Grinberg-Lattice.git"
   Paper PDF:
-    - "/beyond-grinberg-lattice/assets/downloads/beyond-grinberg-lattice.pdf"
+    - "/assets/downloads/beyond-grinberg-lattice.pdf"
 aux_links_new_tab: true
 nav_external_links:
   - title: GitHub Repository
