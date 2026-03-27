@@ -1,0 +1,49 @@
+{
+  "rows": [
+    {
+      "observed": 4,
+      "post_lagged": 0.006203132859569527,
+      "post_matched": 0.006203132859569527,
+      "transition_global": 50.8369210498378,
+      "transition_lagged": 1.4789459338704787,
+      "transition_matched": 0.31138963463587654,
+      "transition_wrong": 1.9907164197668579
+    },
+    {
+      "observed": 8,
+      "post_lagged": 0.005728046838624338,
+      "post_matched": 0.005728046838624338,
+      "transition_global": 13.633311733248204,
+      "transition_lagged": 1.4764316776237605,
+      "transition_matched": 0.29138805875880014,
+      "transition_wrong": 1.9864660827073704
+    },
+    {
+      "observed": 16,
+      "post_lagged": 0.004671990771093112,
+      "post_matched": 0.004671990771093112,
+      "transition_global": 136.2770891524113,
+      "transition_lagged": 1.4685854478878506,
+      "transition_matched": 0.24225153372133662,
+      "transition_wrong": 1.9821320340402293
+    },
+    {
+      "observed": 24,
+      "post_lagged": 0.003616295831582895,
+      "post_matched": 0.003616295831582895,
+      "transition_global": 135.25144865627104,
+      "transition_lagged": 1.4605503452053565,
+      "transition_matched": 0.1913066232588804,
+      "transition_wrong": 1.9773315058397616
+    },
+    {
+      "observed": 32,
+      "post_lagged": 0.0029555994746677493,
+      "post_matched": 0.0029555994746677493,
+      "transition_global": 115.72497752801169,
+      "transition_lagged": 1.4528414788737072,
+      "transition_matched": 0.15370244881812856,
+      "transition_wrong": 1.980205828876447
+    }
+  ]
+}

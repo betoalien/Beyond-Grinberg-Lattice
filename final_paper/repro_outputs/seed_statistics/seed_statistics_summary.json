@@ -1,0 +1,84 @@
+{
+  "rows": [
+    {
+      "case": "coherent_switch",
+      "ci95_half_width": 7.778941749855616e-05,
+      "mean": 0.00026620370370370367,
+      "metric": "transition_fragmentation",
+      "n_seeds": 30,
+      "sd": 0.00021738274846503215
+    },
+    {
+      "case": "coherent_switch",
+      "ci95_half_width": 1.5983655660473938e-05,
+      "mean": 0.21768296789303818,
+      "metric": "transition_matched_error",
+      "n_seeds": 30,
+      "sd": 4.4666371207330156e-05
+    },
+    {
+      "case": "coherent_switch",
+      "ci95_half_width": 4.3158432652340965e-05,
+      "mean": 0.9641759658163986,
+      "metric": "transition_lag_error",
+      "n_seeds": 30,
+      "sd": 0.00012060636280742175
+    },
+    {
+      "case": "coherent_switch",
+      "ci95_half_width": 1.245477291273185e-05,
+      "mean": 0.004323178824058627,
+      "metric": "post_matched_error",
+      "n_seeds": 30,
+      "sd": 3.4804898331161e-05
+    },
+    {
+      "case": "coherent_switch",
+      "ci95_half_width": 0.0,
+      "mean": 120.0,
+      "metric": "mismatch_count",
+      "n_seeds": 30,
+      "sd": 0.0
+    },
+    {
+      "case": "fragmented_switch",
+      "ci95_half_width": 0.0,
+      "mean": 0.875,
+      "metric": "transition_fragmentation",
+      "n_seeds": 30,
+      "sd": 0.0
+    },
+    {
+      "case": "fragmented_switch",
+      "ci95_half_width": 3.0907894846597396e-05,
+      "mean": 0.9779195606679026,
+      "metric": "transition_matched_error",
+      "n_seeds": 30,
+      "sd": 8.637220006366872e-05
+    },
+    {
+      "case": "fragmented_switch",
+      "ci95_half_width": 2.4759558859650717e-05,
+      "mean": 0.40594222198590824,
+      "metric": "transition_lag_error",
+      "n_seeds": 30,
+      "sd": 6.919065765973257e-05
+    },
+    {
+      "case": "fragmented_switch",
+      "ci95_half_width": 2.1144000245043738e-05,
+      "mean": 0.4759420367335902,
+      "metric": "post_matched_error",
+      "n_seeds": 30,
+      "sd": 5.908696882706742e-05
+    },
+    {
+      "case": "fragmented_switch",
+      "ci95_half_width": 0.0,
+      "mean": 240.0,
+      "metric": "mismatch_count",
+      "n_seeds": 30,
+      "sd": 0.0
+    }
+  ]
+}

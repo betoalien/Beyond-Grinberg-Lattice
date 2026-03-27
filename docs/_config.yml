@@ -1,0 +1,32 @@
+title: Beyond the Grinberg Lattice
+description: Manuscript, reproducibility package, and project notes for the Beyond the Grinberg Lattice research artifact.
+theme: null
+remote_theme: just-the-docs/just-the-docs
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+permalink: pretty
+baseurl: "/Beyond-Grinberg-Lattice"
+url: "https://betoalien.github.io"
+aux_links:
+  GitHub Repository:
+    - "https://github.com/betoalien/Beyond-Grinberg-Lattice"
+  Paper PDF:
+    - "/Beyond-Grinberg-Lattice/assets/downloads/beyond-grinberg-lattice.pdf"
+aux_links_new_tab: true
+nav_external_links:
+  - title: GitHub Repository
+    url: https://github.com/betoalien/Beyond-Grinberg-Lattice
+plugins:
+  - jekyll-remote-theme
+callouts:
+  note:
+    title: Note
+    color: blue
+  warning:
+    title: Warning
+    color: yellow
+  important:
+    title: Important
+    color: purple
+footer_content: "Maintained by Alberto Cardenas. Contact: iam@albertocardenas.com"

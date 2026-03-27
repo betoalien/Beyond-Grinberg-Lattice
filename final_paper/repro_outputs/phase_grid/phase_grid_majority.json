@@ -1,0 +1,132 @@
+{
+  "grid": [
+    {
+      "J": 0.2,
+      "counts": {
+        "fragmented_switch": 3
+      },
+      "majority_phase": "fragmented_switch",
+      "pulse_fraction": 0.45
+    },
+    {
+      "J": 0.2,
+      "counts": {
+        "fragmented_switch": 3
+      },
+      "majority_phase": "fragmented_switch",
+      "pulse_fraction": 0.6
+    },
+    {
+      "J": 0.2,
+      "counts": {
+        "fragmented_switch": 3
+      },
+      "majority_phase": "fragmented_switch",
+      "pulse_fraction": 0.8
+    },
+    {
+      "J": 0.2,
+      "counts": {
+        "coherent_switch_with_decoder_lag": 3
+      },
+      "majority_phase": "coherent_switch_with_decoder_lag",
+      "pulse_fraction": 1.0
+    },
+    {
+      "J": 0.3,
+      "counts": {
+        "fragmented_switch": 3
+      },
+      "majority_phase": "fragmented_switch",
+      "pulse_fraction": 0.45
+    },
+    {
+      "J": 0.3,
+      "counts": {
+        "fragmented_switch": 3
+      },
+      "majority_phase": "fragmented_switch",
+      "pulse_fraction": 0.6
+    },
+    {
+      "J": 0.3,
+      "counts": {
+        "fragmented_switch": 3
+      },
+      "majority_phase": "fragmented_switch",
+      "pulse_fraction": 0.8
+    },
+    {
+      "J": 0.3,
+      "counts": {
+        "coherent_switch_with_decoder_lag": 3
+      },
+      "majority_phase": "coherent_switch_with_decoder_lag",
+      "pulse_fraction": 1.0
+    },
+    {
+      "J": 0.45,
+      "counts": {
+        "fragmented_switch": 3
+      },
+      "majority_phase": "fragmented_switch",
+      "pulse_fraction": 0.45
+    },
+    {
+      "J": 0.45,
+      "counts": {
+        "fragmented_switch": 3
+      },
+      "majority_phase": "fragmented_switch",
+      "pulse_fraction": 0.6
+    },
+    {
+      "J": 0.45,
+      "counts": {
+        "fragmented_switch": 3
+      },
+      "majority_phase": "fragmented_switch",
+      "pulse_fraction": 0.8
+    },
+    {
+      "J": 0.45,
+      "counts": {
+        "coherent_switch_with_decoder_lag": 3
+      },
+      "majority_phase": "coherent_switch_with_decoder_lag",
+      "pulse_fraction": 1.0
+    },
+    {
+      "J": 0.6,
+      "counts": {
+        "fragmented_switch": 3
+      },
+      "majority_phase": "fragmented_switch",
+      "pulse_fraction": 0.45
+    },
+    {
+      "J": 0.6,
+      "counts": {
+        "fragmented_switch": 3
+      },
+      "majority_phase": "fragmented_switch",
+      "pulse_fraction": 0.6
+    },
+    {
+      "J": 0.6,
+      "counts": {
+        "fragmented_switch": 3
+      },
+      "majority_phase": "fragmented_switch",
+      "pulse_fraction": 0.8
+    },
+    {
+      "J": 0.6,
+      "counts": {
+        "coherent_switch_with_decoder_lag": 3
+      },
+      "majority_phase": "coherent_switch_with_decoder_lag",
+      "pulse_fraction": 1.0
+    }
+  ]
+}

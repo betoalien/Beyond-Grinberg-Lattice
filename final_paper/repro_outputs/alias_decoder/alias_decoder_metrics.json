@@ -1,0 +1,50 @@
+{
+  "rows": [
+    {
+      "a_global": 404.3346004636016,
+      "a_neg": -0.2951741056901338,
+      "a_pos": 0.21757533387390868,
+      "c_global": -404.3157905411296,
+      "c_neg": -0.7048349047810674,
+      "c_pos": 0.7824137880226968,
+      "case": "coherent_switch",
+      "observed": 16,
+      "post_global": 3.6960082527788507,
+      "post_lagged": 0.004671990771093112,
+      "post_matched": 0.004671990771093112,
+      "post_wrong": 2.0080521835329477,
+      "pre_global": 4.522659383605585,
+      "pre_lagged": 0.006988643048705832,
+      "pre_matched": 0.006988643048705832,
+      "pre_wrong": 1.9886091314397334,
+      "switch_step": 1428,
+      "transition_global": 136.2770891524113,
+      "transition_lagged": 1.4685854478878506,
+      "transition_matched": 0.24225153372133662,
+      "transition_wrong": 1.9821320340402293
+    },
+    {
+      "a_global": 404.3346004636016,
+      "a_neg": -0.2951741056901338,
+      "a_pos": 0.21757533387390868,
+      "c_global": -404.3157905411296,
+      "c_neg": -0.7048349047810674,
+      "c_pos": 0.7824137880226968,
+      "case": "fragmented_switch",
+      "observed": 16,
+      "post_global": 71.36007117988885,
+      "post_lagged": 1.0447942589241477,
+      "post_matched": 0.9454943187591227,
+      "post_wrong": 1.1416709306857846,
+      "pre_global": 24.215090204703795,
+      "pre_lagged": 0.021090833106102852,
+      "pre_matched": 0.021090833106102852,
+      "pre_wrong": 1.949534194001428,
+      "switch_step": 1442,
+      "transition_global": 173.4495606285659,
+      "transition_lagged": 1.1194816793600961,
+      "transition_matched": 1.0383855689842219,
+      "transition_wrong": 1.1746123358937695
+    }
+  ]
+}

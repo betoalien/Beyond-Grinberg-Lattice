@@ -1,0 +1,11 @@
+name: beyond-grinberg-lattice
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy=2.4.2
+  - pandas=3.0.0
+  - matplotlib=3.10.8
+  - pip
+  - pip:
+      - jupyter

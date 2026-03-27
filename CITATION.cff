@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this reproducibility package, please cite the manuscript and computational artifact."
+title: "Beyond the Grinberg Lattice: Boundary Precision, Sector Switching, and Decoder Lag in a Holographic-QEC-Inspired Model of Coherence and Recoverability"
+type: software
+authors:
+  - family-names: "Cardenas"
+    given-names: "Alberto"
+    email: "iam@albertocardenas.com"
+repository-code: "./final_paper"
+abstract: >-
+  Reproducibility package accompanying the manuscript on delayed lattice dynamics,
+  sector-conditioned decoding, fragmentation, and decoder-lag effects under partial observation.
+keywords:
+  - lattice dynamics
+  - metastability
+  - recoverability
+  - decoder lag
+  - reproducibility
+license: MIT
+date-released: 2026-03-26
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Cardenas"
+      given-names: "Alberto"
+      email: "iam@albertocardenas.com"
+  title: "Beyond the Grinberg Lattice: Boundary Precision, Sector Switching, and Decoder Lag in a Holographic-QEC-Inspired Model of Coherence and Recoverability"
+  year: 2026
+  journal: "Unpublished manuscript"
+  url: "./final_paper/beyond-grinberg-lattice.pdf"

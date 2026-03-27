@@ -1,0 +1,11 @@
+case,metric,n_seeds,mean,sd,ci95_half_width
+coherent_switch,transition_fragmentation,30,0.00026620370370370367,0.00021738274846503215,7.778941749855616e-05
+coherent_switch,transition_matched_error,30,0.21768296789303818,4.4666371207330156e-05,1.5983655660473938e-05
+coherent_switch,transition_lag_error,30,0.9641759658163986,0.00012060636280742175,4.3158432652340965e-05
+coherent_switch,post_matched_error,30,0.004323178824058627,3.4804898331161e-05,1.245477291273185e-05
+coherent_switch,mismatch_count,30,120.0,0.0,0.0
+fragmented_switch,transition_fragmentation,30,0.875,0.0,0.0
+fragmented_switch,transition_matched_error,30,0.9779195606679026,8.637220006366872e-05,3.0907894846597396e-05
+fragmented_switch,transition_lag_error,30,0.40594222198590824,6.919065765973257e-05,2.4759558859650717e-05
+fragmented_switch,post_matched_error,30,0.4759420367335902,5.908696882706742e-05,2.1144000245043738e-05
+fragmented_switch,mismatch_count,30,240.0,0.0,0.0
