@@ -6,17 +6,17 @@ color_scheme: light
 search_enabled: true
 heading_anchors: true
 permalink: pretty
-baseurl: "/Beyond-Grinberg-Lattice"
+baseurl: "/beyond-grinberg-lattice"
 url: "https://betoalien.github.io"
 aux_links:
   GitHub Repository:
-    - "https://github.com/betoalien/Beyond-Grinberg-Lattice"
+    - "https://github.com/betoalien/Beyond-Grinberg-Lattice.git"
   Paper PDF:
-    - "/Beyond-Grinberg-Lattice/assets/downloads/beyond-grinberg-lattice.pdf"
+    - "/beyond-grinberg-lattice/assets/downloads/beyond-grinberg-lattice.pdf"
 aux_links_new_tab: true
 nav_external_links:
   - title: GitHub Repository
-    url: https://github.com/betoalien/Beyond-Grinberg-Lattice
+    url: https://github.com/betoalien/Beyond-Grinberg-Lattice.git
 plugins:
   - jekyll-remote-theme
 callouts:

@@ -24,7 +24,7 @@ This GitHub Pages site is intended to host:
 
 ## Quick links
 - [Download the current PDF]({{ '/assets/downloads/beyond-grinberg-lattice.pdf' | relative_url }})
-- [Repository on GitHub](https://github.com/betoalien/Beyond-Grinberg-Lattice)
+- [Repository on GitHub](https://github.com/betoalien/Beyond-Grinberg-Lattice.git)
 - [Paper overview](./paper/)
 - [Reproducibility package](./reproducibility/)
 - [Project links and release status](./links/)

@@ -7,7 +7,7 @@ nav_order: 4
 # Links and Status
 
 ## Repository
-- GitHub: [Beyond-Grinberg-Lattice](https://github.com/betoalien/Beyond-Grinberg-Lattice)
+- GitHub: [Beyond-Grinberg-Lattice](https://github.com/betoalien/Beyond-Grinberg-Lattice.git)
 
 ## Paper assets
 - Current PDF: [download here]({{ '/assets/downloads/beyond-grinberg-lattice.pdf' | relative_url }})
